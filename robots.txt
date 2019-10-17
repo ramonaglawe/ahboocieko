@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kohgeevait.buildmydorm.com/sitemap.xml
